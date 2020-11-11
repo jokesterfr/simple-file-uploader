@@ -32,4 +32,4 @@ yarn start
 
 ## Licence
 
-MIT Licence, see [./LICENCE]()
+MIT Licence, see [LICENCE](./LICENCE)
